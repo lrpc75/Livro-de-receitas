@@ -1,5 +1,14 @@
-# Livro de receitas :book: :man_cook:
+#  Meu livro de receitas :man_cook:
 
-Olá! Bem vindo ao meu livro de receitas! :wave:
+## Ingredientes
 
-- Strogonoff de frango
+- 1
+- 2
+- 3
+
+## Modo de preparo
+
+- 1
+- 2
+- 3
+
